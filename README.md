@@ -1,13 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Ce projet a été amorcé avec l'application Create React.
 
 ## Available Scripts
 
-In the project directory, you can run:
+Dans le répertoire du projet, vous pouvez exécuter:
 
 ### `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Exécute l'application en mode développement.
+Ouvrez http: // localhost: 3000 pour l'afficher dans le navigateur.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+La page se rechargera si vous apportez des modifications.
+Vous verrez également toutes les erreurs de charpie dans la console.
