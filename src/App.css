@@ -19,6 +19,7 @@ form {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-wrap: wrap;
 }
 form input,
 form button {
@@ -130,4 +131,18 @@ select {
   background: #ff6f47;
   cursor: pointer;
   pointer-events: none;
+}
+
+@media (max-width: 768px){
+  h1 {
+    font-size: 2rem;
+  }
+
+  form input {
+    max-width: 70%;
+  }
+
+  .todo li {
+    overflow: hidden;
+  }
 }
